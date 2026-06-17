@@ -1,0 +1,6 @@
+{
+  "name": "Cross Roller Bearing Designer",
+  "description": "Calculates the optimal number of rollers and assembly hole size for full-complement cross roller bearings based on PCD and roller diameter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
